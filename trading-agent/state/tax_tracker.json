@@ -1,0 +1,21 @@
+{
+  "year": 2025,
+  "updated_at": "2025-01-01T00:00:00+09:00",
+  "etf": {
+    "realized_gain": 0,
+    "realized_loss": 0,
+    "loss_carryover_from_prev_years": 0
+  },
+  "fx": {
+    "realized_gain": 0,
+    "realized_loss": 0,
+    "loss_carryover_from_prev_years": 0
+  },
+  "crypto": {
+    "realized_gain": 0,
+    "realized_loss": 0,
+    "note": "総合課税・損失繰越不可"
+  },
+  "tax_free_threshold": 200000,
+  "notes": []
+}

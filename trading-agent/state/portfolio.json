@@ -1,0 +1,16 @@
+{
+  "updated_at": "2025-01-01T00:00:00+09:00",
+  "mode": "PAPER",
+  "total_capital": 1000000,
+  "total_value": 1000000,
+  "current_phase": "Seed",
+  "allocations": {
+    "etf":    {"budget": 400000, "current_value": 400000, "positions": []},
+    "fx":     {"budget": 300000, "current_value": 300000, "positions": []},
+    "crypto": {"budget": 300000, "current_value": 300000, "positions": []}
+  },
+  "consecutive_losses": 0,
+  "forced_reflection_mode": false,
+  "wipeout_acknowledged": false,
+  "total_trades": 0
+}
